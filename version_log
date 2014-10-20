@@ -1,0 +1,23 @@
+Version and change log:
+
+----- 27/08/2011 -----
+
+0.1.4		Adicionados parâmetros em Physical Environment. Falta arrumar: elevadores não passable.
+
+0.1.3		Bugs na movimentação corrigidos. Falta arrumar: elevadores não passable.
+
+----- 26/08/2011 -----
+
+0.1.2		Bugs corrigidos. Movimento funcionando.
+
+----- 25/08/2011 -----
+
+0.1.1		Testes começaram a ser feitos. Move básico funcionando. Elevadores não estão carregando o mover. Falta testar rampas.
+
+----- 24/08/2011 -----
+
+0.1.0		Versão inicial da AGL-Motion com o conteúdo da AGL-Motion XNA adaptado. Falta testar.
+
+----- 25/06/2011 -----
+
+0.0.1		Versão inicial da AGL-Motion, ainda sem a classe moving object.

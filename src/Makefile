@@ -20,6 +20,11 @@ debug: physicalenvironment.cpp iphysicalobject.cpp movingobject.cpp ramp.cpp
 test: test.cpp
 	g++ -g -o test test.cpp -lagl -lagl-motion
 
+
+# Install the AGL library (debug) on the system
+install_debug:
+	../install_debug.sh
+
 # Install the AGL library on the system
 install:
 	../install.sh

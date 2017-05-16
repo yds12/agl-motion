@@ -1,11 +1,11 @@
 # AGL Motion
 
 AGL Motion is a library used to deal with 2D game movements/physics. It depends
-on [AGL](http://github.com/yurids/agl).
+on [AGL](http://github.com/yds12/agl).
 
 ## Compiling and Installing
 
-First, install [AGL](http://github.com/yurids/agl). Then, go to the `src` directory and type:
+First, install [AGL](http://github.com/yds12/agl). Then, go to the `src` directory and type:
 
 ```
 make install
